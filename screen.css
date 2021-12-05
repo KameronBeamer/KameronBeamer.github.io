@@ -56,3 +56,18 @@ a {
 
 #main {
   padding: 50px; }
+
+
+html {
+background-color: #e1e2e2;
+}
+
+header {
+	height: 70px;
+	background-color: #353935;
+	color: white;
+	font-size: 28px;
+	margin: 5px;
+	padding: 10px;
+	
+}
